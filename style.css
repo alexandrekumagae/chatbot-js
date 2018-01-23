@@ -1,5 +1,9 @@
+.container {
+  padding-bottom: 50px;
+}
 .message-box {
   width: 100%;
+  margin-bottom: 20px;
 }
 .bot-message .user {
   text-align: right;
@@ -8,4 +12,10 @@
   border: 1px solid #CCC;
   padding: 10px;
   border-radius: 5px;
+}
+.message-input-box {
+  padding-top: 20px;
+}
+#select-input {
+  display: none;
 }
