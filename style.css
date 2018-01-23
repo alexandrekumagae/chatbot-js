@@ -1,0 +1,11 @@
+.message-box {
+  width: 100%;
+}
+.bot-message .user {
+  text-align: right;
+}
+.message {
+  border: 1px solid #CCC;
+  padding: 10px;
+  border-radius: 5px;
+}
